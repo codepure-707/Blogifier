@@ -11,7 +11,7 @@
     "build:Release": "gulp release build"
   },
   "dependencies": {
-    "bootstrap": "~5.1.0",
+    "bootstrap": "~5.3.6",
     "highlight.js": "^11.8.0"
   },
   "devDependencies": {

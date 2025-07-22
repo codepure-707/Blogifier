@@ -10,7 +10,7 @@
     "build:Release": "gulp release build"
   },
   "dependencies": {
-    "bootstrap": "~5.1.0",
+    "bootstrap": "~5.3.7",
     "autosize": "^6.0.1",
     "chart.js": "~2.9.4",
     "easymde": "^2.18.0",
